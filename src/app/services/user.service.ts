@@ -12,25 +12,25 @@ export class UserService {
   constructor() {
     this.users = [
       {
-        firstName: 'John',
-        lastName: 'Doe',
-        email: 'john@gmail.com',
+        firstName: 'Jozo',
+        lastName: 'Cho',
+        email: 'jozo.cho@gmail.com',
         isActive: true,
         registered: new Date('01/02/2018 08:30:00'),
         hide: true
       },
       {
         firstName: 'Kevin',
-        lastName: 'Johnson',
-        email: 'kevin@yahoo.com',
+        lastName: 'Edoo',
+        email: 'kay-g@gmail.com',
         isActive: false,
         registered: new Date('03/11/2017 06:20:00'),
         hide: true
       },
       {
-        firstName: 'Karen',
-        lastName: 'Williams',
-        email: 'karen@gmaial.com',
+        firstName: 'Shayant',
+        lastName: 'Sital',
+        email: 'shayant98@gmail.com',
         isActive: true,
         registered: new Date('11/02/2016 10:30:00'),
         hide: true
