@@ -29,7 +29,7 @@ export class UserService {
       },
       {
         firstName: 'Shayant',
-        lastName: 'Sital',
+        lastName: 'Sita',
         email: 'shayant98@gmail.com',
         isActive: true,
         registered: new Date('11/02/2016 10:30:00'),
